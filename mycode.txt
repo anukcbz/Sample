@@ -1,5 +1,8 @@
 If action=one
  print one
+if action=r2
+ print r2
 else
- print complex
+ print complex 
+
 end if
