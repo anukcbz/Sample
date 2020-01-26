@@ -1,0 +1,5 @@
+If action=one
+ print one
+else
+ print complex
+end if
